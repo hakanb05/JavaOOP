@@ -55,11 +55,3 @@ and demonstrates the programming techniques and concepts I worked on.
 
 It provides examples of how I implemented object oriented design
 and structured Java code across different small projects.
-
----
-
-# Technologies
-
-- Java
-- Object Oriented Programming
-- Java Collections
